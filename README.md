@@ -28,7 +28,7 @@ InstagramCleaner is a modern desktop application that analyzes your Instagram da
 
 ## 📸 Screenshots
 
-![InstagramCleaner Interface](https://via.placeholder.com/800x500/0f0f1a/6366f1?text=InstagramCleaner+Interface)
+![InstagramCleaner Interface](https://i.imgur.com/tMKH8Dd.png)
 
 ## 🚀 Getting Started
 
